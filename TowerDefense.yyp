@@ -55,6 +55,14 @@
             }
         },
         {
+            "Key": "3ca5e4b1-3899-4fde-9816-9d2b658e4665",
+            "Value": {
+                "id": "3e4e822f-200b-42c7-a5aa-d9776c76e0a0",
+                "resourcePath": "views\\3ca5e4b1-3899-4fde-9816-9d2b658e4665.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "4181a017-c231-4a6d-93d9-30a5d239c4f3",
             "Value": {
                 "id": "37f2c7d5-826b-4abe-a4a6-eb345244a22c",
@@ -79,6 +87,22 @@
             }
         },
         {
+            "Key": "6fc95be6-63b9-4f11-a4d8-dffd092bfd73",
+            "Value": {
+                "id": "9d110728-e2d0-4a13-81da-707d8ca2cc14",
+                "resourcePath": "sprites\\spr_turret_base_1\\spr_turret_base_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "7b9da794-2ff8-4cd6-b0b6-6676b4d7b7a8",
+            "Value": {
+                "id": "72532919-b50e-43fe-95a9-3d1c27c929f4",
+                "resourcePath": "views\\7b9da794-2ff8-4cd6-b0b6-6676b4d7b7a8.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "803d237c-5b91-43c2-aec4-da3a19580516",
             "Value": {
                 "id": "c8ab17bd-9696-4b91-83e0-e40ce59b0389",
@@ -91,6 +115,14 @@
             "Value": {
                 "id": "adf2e703-214f-4aa8-beee-7a49622bec04",
                 "resourcePath": "views\\88e6f487-465d-4a3f-8425-03194bed98ff.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "8f464cc0-c6ba-47d9-a67e-efa27252bb6a",
+            "Value": {
+                "id": "39e04f3d-fa9d-497a-9f51-efb719d8e5cf",
+                "resourcePath": "views\\8f464cc0-c6ba-47d9-a67e-efa27252bb6a.yy",
                 "resourceType": "GMFolder"
             }
         },
@@ -135,11 +167,35 @@
             }
         },
         {
+            "Key": "a38946fb-5fac-4b1c-8901-20ef20cabcee",
+            "Value": {
+                "id": "b025ef86-5577-4983-9a26-65bf5b78c957",
+                "resourcePath": "paths\\path0\\path0.yy",
+                "resourceType": "GMPath"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "8f43cfd6-6777-4ccb-99b6-63232f0ecba2",
                 "resourcePath": "options\\linux\\options_linux.yy",
                 "resourceType": "GMLinuxOptions"
+            }
+        },
+        {
+            "Key": "aaf49b74-f1ce-4699-a74a-48614b8dba53",
+            "Value": {
+                "id": "64f45743-8c43-4ede-a375-e9f010ffeecb",
+                "resourcePath": "objects\\obj_tower\\obj_tower.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "b604eebe-5762-4391-9cc3-64287ee626ae",
+            "Value": {
+                "id": "8a3b3308-f085-4dfc-93fe-f79b7727989f",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -164,6 +220,22 @@
                 "id": "487435b7-13b7-48fa-9863-261265ddc480",
                 "resourcePath": "sprites\\spr_tiles_64\\spr_tiles_64.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "deb8cb29-9de1-4787-a4b3-148bcc849d5c",
+            "Value": {
+                "id": "ca52f8d9-1f13-461d-a457-3435823d949f",
+                "resourcePath": "sprites\\spr_enemy_1\\spr_enemy_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "e148e996-d532-40d0-9507-02e90969ce0d",
+            "Value": {
+                "id": "fdbcd233-33ec-487b-ab65-2f4a2fa39585",
+                "resourcePath": "objects\\obj_gun_tower_1\\obj_gun_tower_1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -204,6 +276,14 @@
                 "id": "6b897868-4b3a-4310-8ddb-b2220cad8c23",
                 "resourcePath": "views\\f7ecd308-f69d-4011-bfeb-8310b31c22c5.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "fba57003-527a-4276-b6d6-a0f3f921e1af",
+            "Value": {
+                "id": "d46912a2-267e-40af-8b12-b0343922b0e8",
+                "resourcePath": "sprites\\spr_gun_turret\\spr_gun_turret.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
