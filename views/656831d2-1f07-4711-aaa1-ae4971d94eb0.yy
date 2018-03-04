@@ -1,0 +1,14 @@
+{
+    "id": "656831d2-1f07-4711-aaa1-ae4971d94eb0",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "656831d2-1f07-4711-aaa1-ae4971d94eb0",
+    "children": [
+        "e148e996-d532-40d0-9507-02e90969ce0d",
+        "aaf49b74-f1ce-4699-a74a-48614b8dba53"
+    ],
+    "filterType": "GMObject",
+    "folderName": "Towers",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

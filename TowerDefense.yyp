@@ -31,6 +31,14 @@
     },
     "resources": [
         {
+            "Key": "0cdf9f7c-e3d9-431c-82e7-5b21fd9c3de7",
+            "Value": {
+                "id": "ada3376e-45dc-4418-9292-fe555effe301",
+                "resourcePath": "scripts\\AddWave\\AddWave.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "1122aff0-35db-4e0d-b147-0b88a150df02",
             "Value": {
                 "id": "f345d11a-e62f-449e-96cf-2ae8a2274f17",
@@ -44,6 +52,22 @@
                 "id": "440ed41f-6aa8-462a-a553-e929cde4403b",
                 "resourcePath": "views\\17a8802f-2dd4-4915-905d-8c7a68d9d04b.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "18339e0e-5279-4cc0-82e0-b693e1b076b8",
+            "Value": {
+                "id": "53cbe380-ab73-4d3a-a494-48119005c484",
+                "resourcePath": "objects\\obj_wave_manager\\obj_wave_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "212d4001-44b4-481d-bae5-82c06ccb4df0",
+            "Value": {
+                "id": "56d1bf36-2f5a-4182-9626-ba4d9f722c7d",
+                "resourcePath": "objects\\obj_enemy_spawner\\obj_enemy_spawner.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -100,6 +124,14 @@
                 "id": "6b5fc185-7d33-4b1e-8129-cd3d44323f4b",
                 "resourcePath": "sprites\\spr_turretgun_flash\\spr_turretgun_flash.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "656831d2-1f07-4711-aaa1-ae4971d94eb0",
+            "Value": {
+                "id": "627dbdf4-0c05-4a54-9729-6636145bdfa8",
+                "resourcePath": "views\\656831d2-1f07-4711-aaa1-ae4971d94eb0.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -215,6 +247,14 @@
             }
         },
         {
+            "Key": "b7f04947-346b-43df-be93-0e204a1ca2f2",
+            "Value": {
+                "id": "5c3f4412-abd9-465b-9b73-2653a71a6c1a",
+                "resourcePath": "views\\b7f04947-346b-43df-be93-0e204a1ca2f2.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "c63dccd6-89f9-4f72-809d-32a6f8122fce",
             "Value": {
                 "id": "12b9fade-9b11-4bce-b08b-744a7a460db3",
@@ -312,7 +352,7 @@
         }
     ],
     "script_order": [
-        
+        "0cdf9f7c-e3d9-431c-82e7-5b21fd9c3de7"
     ],
     "tutorial": ""
 }

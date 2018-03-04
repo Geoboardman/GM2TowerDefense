@@ -1,48 +1,28 @@
 {
-    "id": "4a593d8a-2529-4963-9173-0af2e81fd561",
+    "id": "212d4001-44b4-481d-bae5-82c06ccb4df0",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "obj_game_manager",
+    "name": "obj_enemy_spawner",
     "eventList": [
         {
-            "id": "4e1578fb-6077-4d3c-b95b-f2fc16199d8b",
+            "id": "5b7be2ca-9acb-49fd-8874-ce743df12b77",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
             "eventtype": 0,
-            "m_owner": "4a593d8a-2529-4963-9173-0af2e81fd561"
+            "m_owner": "212d4001-44b4-481d-bae5-82c06ccb4df0"
         },
         {
-            "id": "a9fcf6b9-0d5e-4088-9fe3-931a67ea8608",
+            "id": "2c8f3650-ee73-4809-8e44-3259a4a13ca0",
             "modelName": "GMEvent",
             "mvc": "1.0",
             "IsDnD": false,
             "collisionObjectId": "00000000-0000-0000-0000-000000000000",
             "enumb": 0,
-            "eventtype": 3,
-            "m_owner": "4a593d8a-2529-4963-9173-0af2e81fd561"
-        },
-        {
-            "id": "69145d52-6bc3-4b0b-a334-0953d36549da",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 64,
-            "eventtype": 8,
-            "m_owner": "4a593d8a-2529-4963-9173-0af2e81fd561"
-        },
-        {
-            "id": "ba8acdd4-fcbe-4eff-95e7-07ec5c4e5f82",
-            "modelName": "GMEvent",
-            "mvc": "1.0",
-            "IsDnD": false,
-            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
-            "enumb": 5,
-            "eventtype": 7,
-            "m_owner": "4a593d8a-2529-4963-9173-0af2e81fd561"
+            "eventtype": 2,
+            "m_owner": "212d4001-44b4-481d-bae5-82c06ccb4df0"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
