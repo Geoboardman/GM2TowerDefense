@@ -1,0 +1,2 @@
+///Shooting alarm
+canShoot = true;

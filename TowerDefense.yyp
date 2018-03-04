@@ -71,6 +71,14 @@
             }
         },
         {
+            "Key": "4a593d8a-2529-4963-9173-0af2e81fd561",
+            "Value": {
+                "id": "bd3fd0fd-e4cd-4f8e-829a-03ea92e8037d",
+                "resourcePath": "objects\\obj_game_manager\\obj_game_manager.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "50207775-0b01-42ac-96ee-eff86bf6d2a0",
             "Value": {
                 "id": "f28b1a4b-489a-4e4f-8fef-7be8b704b89b",
@@ -84,6 +92,14 @@
                 "id": "b79b8461-8367-4d3d-9565-1eb05cc5ae95",
                 "resourcePath": "views\\55ae8da1-3e40-48d9-bb21-796382a79bce.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "62973722-5efd-4f85-b70f-945b5dd79499",
+            "Value": {
+                "id": "6b5fc185-7d33-4b1e-8129-cd3d44323f4b",
+                "resourcePath": "sprites\\spr_turretgun_flash\\spr_turretgun_flash.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

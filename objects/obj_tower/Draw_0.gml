@@ -1,2 +1,5 @@
 draw_sprite(baseSprite,0,x,y);
-draw_sprite(gunSprite,0,x,y);
+draw_sprite_ext(gunSprite, image_index, x, y, image_xscale, image_yscale, imageAngle, image_blend, image_alpha);
+
+draw_set_colour(c_white);
+draw_circle(x,y,range,true);
