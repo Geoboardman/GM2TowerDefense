@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "0e82211d-e40f-430e-80f1-8b65152ab834",
+            "Value": {
+                "id": "26c91afe-75f9-4012-8334-81fc3d7f5e58",
+                "resourcePath": "sprites\\spr_enemy_plane_1\\spr_enemy_plane_1.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "1122aff0-35db-4e0d-b147-0b88a150df02",
             "Value": {
                 "id": "f345d11a-e62f-449e-96cf-2ae8a2274f17",
@@ -95,6 +103,14 @@
             }
         },
         {
+            "Key": "4640a935-6b45-4bf0-be8b-e399a24672ef",
+            "Value": {
+                "id": "6e95cdba-15ce-4719-b21d-5a8cf05729f6",
+                "resourcePath": "sprites\\spr_missile_turret_3\\spr_missile_turret_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4a593d8a-2529-4963-9173-0af2e81fd561",
             "Value": {
                 "id": "bd3fd0fd-e4cd-4f8e-829a-03ea92e8037d",
@@ -135,11 +151,43 @@
             }
         },
         {
+            "Key": "69c55f77-1e27-41ab-ae6c-e1d3a7482e3c",
+            "Value": {
+                "id": "cb7c05d4-ff79-4aad-887d-24621c8b9aa5",
+                "resourcePath": "sprites\\spr_enemy_soldier_4\\spr_enemy_soldier_4.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "6df940ee-25de-40e1-9680-b8d1657ea99e",
+            "Value": {
+                "id": "65e310a4-14f3-4f5f-87b3-0011d9f21efa",
+                "resourcePath": "sprites\\spr_gun_turret_2\\spr_gun_turret_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "6fc95be6-63b9-4f11-a4d8-dffd092bfd73",
             "Value": {
                 "id": "9d110728-e2d0-4a13-81da-707d8ca2cc14",
                 "resourcePath": "sprites\\spr_turret_base_1\\spr_turret_base_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "776c6211-28ba-4944-9275-46627d90c46a",
+            "Value": {
+                "id": "633d19d2-c5ef-4043-bbc4-b032eef72c03",
+                "resourcePath": "sprites\\spr_enemy_soldier_3\\spr_enemy_soldier_3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "78556405-be36-4b17-9036-1b32ffd16824",
+            "Value": {
+                "id": "6fdfbddc-3d8c-4a73-973c-6550101be38d",
+                "resourcePath": "views\\78556405-be36-4b17-9036-1b32ffd16824.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
@@ -167,6 +215,22 @@
             }
         },
         {
+            "Key": "8d69082b-3826-4303-8080-12a9f8b5ded0",
+            "Value": {
+                "id": "c3cb34ff-802b-4e20-b281-0696cb51a7e7",
+                "resourcePath": "sprites\\spr_turret_base_2\\spr_turret_base_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "8e04bda7-8c10-4894-b5c4-693f55638c24",
+            "Value": {
+                "id": "e62df992-0774-4afe-b930-7ce8d7d033e5",
+                "resourcePath": "objects\\obj_enemy_plane\\obj_enemy_plane.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "8f464cc0-c6ba-47d9-a67e-efa27252bb6a",
             "Value": {
                 "id": "39e04f3d-fa9d-497a-9f51-efb719d8e5cf",
@@ -188,6 +252,14 @@
                 "id": "fbbc5f34-0753-454c-b63b-ca6f2713d80a",
                 "resourcePath": "views\\9b483911-207e-4059-b809-008dc194ef61.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9bda07cf-f12e-48fd-9141-ab5007e85680",
+            "Value": {
+                "id": "31899c64-8bd3-446c-b363-40cb3a4f2134",
+                "resourcePath": "sprites\\spr_enemy_plane_2\\spr_enemy_plane_2.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -239,6 +311,14 @@
             }
         },
         {
+            "Key": "ac138307-52af-431e-822f-bff53ac791c3",
+            "Value": {
+                "id": "45646fe5-6b66-4281-ab86-489d3fbc3c92",
+                "resourcePath": "sprites\\spr_missile_turret_2\\spr_missile_turret_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "b604eebe-5762-4391-9cc3-64287ee626ae",
             "Value": {
                 "id": "8a3b3308-f085-4dfc-93fe-f79b7727989f",
@@ -252,6 +332,22 @@
                 "id": "5c3f4412-abd9-465b-9b73-2653a71a6c1a",
                 "resourcePath": "views\\b7f04947-346b-43df-be93-0e204a1ca2f2.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "be8409fc-2810-4fbb-ac0d-13a37c85de38",
+            "Value": {
+                "id": "8a58148a-29c6-4e1f-b4f7-e267108d0fe1",
+                "resourcePath": "sprites\\spr_enemy_soldier_2\\spr_enemy_soldier_2.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c277acff-39c0-4386-a518-909cb7418fbe",
+            "Value": {
+                "id": "19b325e4-c9ce-4490-8d07-3845d2ba3268",
+                "resourcePath": "sprites\\spr_missile_turret_1\\spr_missile_turret_1.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -282,8 +378,16 @@
             "Key": "deb8cb29-9de1-4787-a4b3-148bcc849d5c",
             "Value": {
                 "id": "ca52f8d9-1f13-461d-a457-3435823d949f",
-                "resourcePath": "sprites\\spr_enemy_1\\spr_enemy_1.yy",
+                "resourcePath": "sprites\\spr_enemy_soldier_1\\spr_enemy_soldier_1.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "df986796-8c58-4075-bb0a-142393abac8b",
+            "Value": {
+                "id": "2b2fd7d2-0e5f-40b5-bbac-04d7a17b7745",
+                "resourcePath": "objects\\obj_missile_tower_1\\obj_missile_tower_1.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +420,14 @@
                 "id": "4fa9193d-8e62-45a6-9062-d441d652a116",
                 "resourcePath": "tilesets\\stuff\\stuff.yy",
                 "resourceType": "GMTileSet"
+            }
+        },
+        {
+            "Key": "f26e219e-3846-420d-a3d3-798e4f5942db",
+            "Value": {
+                "id": "7758c9f2-8a3e-4fae-a76d-8d4aa726ee7b",
+                "resourcePath": "objects\\obj_enemy_soldier\\obj_enemy_soldier.yy",
+                "resourceType": "GMObject"
             }
         },
         {

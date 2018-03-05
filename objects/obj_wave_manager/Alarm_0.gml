@@ -1,17 +1,29 @@
-///spawn the next wave
-var spawnMap = ds_list_find_value(waves, 0);
+//Check to see if there are any waves left
+if(currentWave < ds_list_size(waves))
+{
 
-var count = ds_map_find_value(spawnMap, "count");
-var location = ds_map_find_value(spawnMap, "location");
-var enemyType = ds_map_find_value(spawnMap, "enemyType");
-var spawnRate = ds_map_find_value(spawnMap, "spawnRate");
+	///spawn the next wave
+	var spawnMap = ds_list_find_value(waves, currentWave);
 
-var spawner = instance_create_layer(0,0,"instances",obj_enemy_spawner);
+	var spawnCount = ds_map_find_value(spawnMap, "spawnCount");
+	var location = ds_map_find_value(spawnMap, "location");
+	var spawnObj = ds_map_find_value(spawnMap, "spawnObj");
+	var spawnTime = ds_map_find_value(spawnMap, "spawnTime");
 
-spawner.count = count;
-spawner.enemyType = enemyType;
-spawner.spawnRate = spawnRate;
-spawner.x = path_get_x(location, 0);
-spawner.y = path_get_y(location, 0);
+	var spawner = instance_create_layer(0,0,"instances",obj_enemy_spawner);
 
-alarm[0] = timeBetweenWaves;
+	spawner.spawnCount = spawnCount;
+	spawner.spawnObj = spawnObj;
+	spawner.spawnTime = spawnTime;
+	spawner.x = path_get_x(location, 0);
+	spawner.y = path_get_y(location, 0);
+
+	alarm[0] = timeBetweenWaves;
+
+	currentWave++;
+
+}
+else
+{
+	instance_destroy();
+}
