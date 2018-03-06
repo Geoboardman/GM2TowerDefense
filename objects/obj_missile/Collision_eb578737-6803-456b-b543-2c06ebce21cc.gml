@@ -1,10 +1,10 @@
-/// @description Insert description here
-// You can write your code in this editor
 if(other == target)
 {
 	with(other)
 	{
-		other.hp -= damage;
+		hp -= other.damage;
 	}
-	instance_destroy();	
+	//Show explosion
+	effect_create_above(ef_explosion, x, y, 0.1, c_red);
+	instance_destroy();
 }

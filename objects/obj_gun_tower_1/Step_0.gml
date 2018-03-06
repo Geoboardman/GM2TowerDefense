@@ -1,4 +1,4 @@
-//Target nearest enemy
+ //Target nearest enemy
 var inst = instance_nearest(x, y, obj_enemy);
 
 if(inst != noone and distance_to_object(inst) <= range)

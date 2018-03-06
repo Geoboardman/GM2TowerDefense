@@ -95,6 +95,14 @@
             }
         },
         {
+            "Key": "3d007c07-bc8e-445b-ac5c-1ed62183e1f7",
+            "Value": {
+                "id": "b04e12e0-f6c5-487a-a399-f6302f25ff6a",
+                "resourcePath": "objects\\obj_gun_tower_2\\obj_gun_tower_2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4181a017-c231-4a6d-93d9-30a5d239c4f3",
             "Value": {
                 "id": "37f2c7d5-826b-4abe-a4a6-eb345244a22c",
