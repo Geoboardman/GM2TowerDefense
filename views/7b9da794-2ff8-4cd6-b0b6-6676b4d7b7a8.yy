@@ -10,7 +10,8 @@
         "6df940ee-25de-40e1-9680-b8d1657ea99e",
         "ac138307-52af-431e-822f-bff53ac791c3",
         "4640a935-6b45-4bf0-be8b-e399a24672ef",
-        "8d69082b-3826-4303-8080-12a9f8b5ded0"
+        "8d69082b-3826-4303-8080-12a9f8b5ded0",
+        "a0f89a13-b7af-4a8b-b31b-73c65006b4a3"
     ],
     "filterType": "GMSprite",
     "folderName": "Turret",
